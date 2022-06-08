@@ -1,0 +1,4 @@
+>?php
+
+const TOKEN = '5390902302:AAHU_wmdPH69fExOv1GUUPBApunPJZkUNQc';
+const BASE_URL = 'https://api.telegram.org/bot' . TOKEN . '/';
